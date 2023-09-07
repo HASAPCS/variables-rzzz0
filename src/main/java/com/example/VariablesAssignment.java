@@ -3,10 +3,10 @@ package com.example;
 public class VariablesAssignment {
 
     // TODO: Declare and initialize a byte variable with any value between 1 and 127
-    byte byteVariable;
+    byte byteVariable=62;
 
     // TODO: Declare and initialize a short variable with any value between 1 and 32767
-    short shortVariable;
+    short shortVariable=32765;
 
     // TODO: Declare and initialize an int variable with any positive value
     int intVariable;
@@ -24,7 +24,7 @@ public class VariablesAssignment {
     char charVariable;
 
     // TODO: Declare and initialize a boolean variable with the value true or false
-    boolean booleanVariable;
+    boolean booleanVariable=true;
 
     // TODO: Create a method that accepts two integers as parameters and returns their sum
     public int sum(int a, int b) {
